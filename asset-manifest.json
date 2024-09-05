@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/collaborative-editor-frontend/static/css/main.172dbd9c.css",
+    "main.js": "/collaborative-editor-frontend/static/js/main.067ff08e.js",
+    "static/js/453.a87b6562.chunk.js": "/collaborative-editor-frontend/static/js/453.a87b6562.chunk.js",
+    "index.html": "/collaborative-editor-frontend/index.html",
+    "main.172dbd9c.css.map": "/collaborative-editor-frontend/static/css/main.172dbd9c.css.map",
+    "main.067ff08e.js.map": "/collaborative-editor-frontend/static/js/main.067ff08e.js.map",
+    "453.a87b6562.chunk.js.map": "/collaborative-editor-frontend/static/js/453.a87b6562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172dbd9c.css",
+    "static/js/main.067ff08e.js"
+  ]
+}
